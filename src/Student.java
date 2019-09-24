@@ -6,6 +6,7 @@ public class Student {
       {
     	  this.sid=sid;
     	  this.sname=sname;
+    	  System.out.println("Teacher info");
     	  System.out.println("Student id="+sid+" "+"Student Name="+sname);
     	  
       }
